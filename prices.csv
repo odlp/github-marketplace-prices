@@ -1,0 +1,185 @@
+product name,price,period,plan name,plan desc,product URL
+Slack + GitHub,$0,,Free,Your ultimate productivity pair,https://github.com/marketplace/slack-github
+CodeFactor,$0,,Free,1 private repo. Unlimited users. Unlimited public repos.,https://github.com/marketplace/codefactor
+CodeFactor,$19,month,Starter,5 private repos. Unlimited users. Unlimited public repos.,https://github.com/marketplace/codefactor
+CodeFactor,$39,month,Team Free Trial,10 private repos. Unlimited users. Unlimited public repos.,https://github.com/marketplace/codefactor
+CodeFactor,$79,month,Agency,20 private repos. Unlimited users. Unlimited public repos.,https://github.com/marketplace/codefactor
+CodeFactor,$199,month,Enterprise,50 private repos. Unlimited users. Unlimited public repos.,https://github.com/marketplace/codefactor
+Codecov,$0,,Open Source,Unlimited public repositories,https://github.com/marketplace/codecov
+Codecov,"$6
+per user",month,Umbrella Free Trial,Unlimited private repositories,https://github.com/marketplace/codecov
+Coveralls,$0,,Open Source,Unlimited Open Source Repos,https://github.com/marketplace/coveralls
+Coveralls,$5,month,Coveralls Solo,1 Repo,https://github.com/marketplace/coveralls
+Coveralls,$25,month,Coveralls Org,10 Repos,https://github.com/marketplace/coveralls
+Coveralls,$100,month,Coveralls Pro,Unlimited Repos,https://github.com/marketplace/coveralls
+Code Climate,"$12
+per seat",month,Code Climate Essentials,Everything small teams need to merge with confidence,https://github.com/marketplace/code-climate
+Code Climate,"$20
+per seat",month,Code Climate Standard,Technical debt reduction for teams of 20+,https://github.com/marketplace/code-climate
+Better Code Hub,$0,,Free,For open source and non-commercial use,https://github.com/marketplace/better-code-hub
+Better Code Hub,$9,month,Individual Free Trial,For personal accounts only,https://github.com/marketplace/better-code-hub
+Better Code Hub,"$20
+per user",month,Pro Free Trial,For organizational accounts,https://github.com/marketplace/better-code-hub
+ImgBot,$0,,Always Free,Serverless FTW!,https://github.com/marketplace/imgbot
+TestQuality,$0,,GitHub FREE Plan,Free for open source public GitHub Repos,https://github.com/marketplace/testquality
+TestQuality,$50,month,5-User Private Repo Team Plan,GitHub Test Management for five users,https://github.com/marketplace/testquality
+codebeat,$0,,Public,Free for open source projects,https://github.com/marketplace/codebeat
+codebeat,"$20
+per seat",month,Private,Unlimited private repositories,https://github.com/marketplace/codebeat
+Sider,"$12
+per seat",month,Standard Free Trial,Public & private repositories,https://github.com/marketplace/sider
+LGTM,$0,,Open Source and Public Repositories,Free for open source projects and public repositories,https://github.com/marketplace/lgtm
+Codacy,$0,,Open Source,Free for open source projects,https://github.com/marketplace/codacy
+Codacy,"$18
+per user",month,Pro,Unlimited private repositories,https://github.com/marketplace/codacy
+Hound,$0,,Open Source,Free for public projects,https://github.com/marketplace/hound
+Hound,$49,month,Chihuahua Free Trial,Up to 4 private projects,https://github.com/marketplace/hound
+Hound,$149,month,Octodog,Up to 20 private projects,https://github.com/marketplace/hound
+AccessLint,$0,,Open Source,Free for all public projects,https://github.com/marketplace/accesslint
+AccessLint,$49,month,Unlimited Free Trial,Unlimited public and private projects,https://github.com/marketplace/accesslint
+WIP,$0,,Free,"Block pull requests with ""WIP"" in title.",https://github.com/marketplace/wip
+WIP,$1,month,Pro,Make it work with your workflow.,https://github.com/marketplace/wip
+WIP,$10,month,Enterprise,For teams of 10 and more. Fair play.,https://github.com/marketplace/wip
+Pull Reminders,$0,,Open Source,Non-commercial open source projects,https://github.com/marketplace/pull-reminders
+Pull Reminders,$14,month,Startup Free Trial,Up to 7 developers,https://github.com/marketplace/pull-reminders
+Pull Reminders,$49,month,Growth Free Trial,Up to 25 developers,https://github.com/marketplace/pull-reminders
+Pull Reminders,$99,month,Scale Free Trial,Up to 75 developers,https://github.com/marketplace/pull-reminders
+Cloud 66 Skycap,$49,month,Skycap Starter Plan Free Trial,This plan includes:,https://github.com/marketplace/cloud-66-skycap
+Cloud 66 Skycap,$299,month,Skycap Growth Plan,This plan includes:,https://github.com/marketplace/cloud-66-skycap
+Cloud 66 Skycap,$499,month,Skycap Pro Plan,This plan includes:,https://github.com/marketplace/cloud-66-skycap
+Percy,$99,month,Lite,Percy visual testing and reviews,https://github.com/marketplace/percy
+App Center,$0,,Free,Free for all projects,https://github.com/marketplace/app-center
+App Center,$40,month,Startup,1 build concurrency with unlimited hours,https://github.com/marketplace/app-center
+App Center,$80,month,Growth,2 builds concurrencies with unlimited hours,https://github.com/marketplace/app-center
+App Center,$179,month,Enterprise,2 build concurrencies and 1 test device concurrency,https://github.com/marketplace/app-center
+Cirrus CI,$0,,Public Repositories,Free CI for public repositories,https://github.com/marketplace/cirrus-ci
+Cirrus CI,$10,month,Private Personal Repositories Free Trial,Affordable CI for private personal repositories,https://github.com/marketplace/cirrus-ci
+Cirrus CI,"$10
+per seat",month,Private Organization Repositories Free Trial,Orchestrating builds on Cloud Computing Services,https://github.com/marketplace/cirrus-ci
+Semaphore,$0,,Open Source,We offer free CI/CD for Open Source projects with 4x parallelism.,https://github.com/marketplace/semaphore
+Semaphore,$0,,Free for Small Projects,Free and unlimited plan for private repositories.,https://github.com/marketplace/semaphore
+Semaphore,$69,month,Bootstrap,CI/CD with 2x parallelism for small teams.,https://github.com/marketplace/semaphore
+Semaphore,$189,month,Startup,CI/CD with 4x parallelism for teams that are shipping regularly.,https://github.com/marketplace/semaphore
+Semaphore,$299,month,Growth,CI/CD with 6x parallelism for growth stage companies.,https://github.com/marketplace/semaphore
+Travis CI,$0,,Open Source,We offer free CI for Open Source projects,https://github.com/marketplace/travis-ci
+Travis CI,$69,month,ONE Free Trial,"Unlimited builds, 1 job at a time. Ideal for hobby and small projects.",https://github.com/marketplace/travis-ci
+Travis CI,$199,month,THREE Free Trial,"Unlimited builds, 3 jobs at a time. Best suited for small teams.",https://github.com/marketplace/travis-ci
+Travis CI,$349,month,SIX Free Trial,"Unlimited builds, 6 jobs at a time. Great for growing teams.",https://github.com/marketplace/travis-ci
+Buddy,$0,,Free,"1x concurrency, 1 GB RAM",https://github.com/marketplace/buddy
+Buddy,$69,month,Freelancer Free Trial,"1x concurrency, 2 GB RAM",https://github.com/marketplace/buddy
+Buddy,$178,month,Startup Free Trial,"2x concurrency, 4 GB RAM",https://github.com/marketplace/buddy
+Buddy,$385,month,Growth Free Trial,"3x concurrency, 8 GB RAM",https://github.com/marketplace/buddy
+Buddy,$620,month,Scale Free Trial,"4x concurrency, 16 GB RAM",https://github.com/marketplace/buddy
+AppVeyor,$0,,Open Source,For open-source projects,https://github.com/marketplace/appveyor
+AppVeyor,$29,month,Basic,For individual developers with a single project,https://github.com/marketplace/appveyor
+AppVeyor,$59,month,Pro,For small teams and individual developers with multiple projects,https://github.com/marketplace/appveyor
+Azure Pipelines,$0,,Free,Free for public and private repositories,https://github.com/marketplace/azure-pipelines
+Azure Pipelines,"$40
+per parallel job",month,Add parallel jobs,Add parallel jobs for private repositories,https://github.com/marketplace/azure-pipelines
+Cloud 66 for Rails,$49,month,Rails Starter Plan Free Trial,Deploy up to 5 servers. This plan includes:,https://github.com/marketplace/cloud-66-for-rails
+Cloud 66 for Rails,$299,month,Rails Growth Plan,Deploy up to 30 servers. This plan includes:,https://github.com/marketplace/cloud-66-for-rails
+Cloud 66 for Rails,$799,month,Rails Pro Plan,Deploy up to 80 servers. This plan includes:,https://github.com/marketplace/cloud-66-for-rails
+Codefresh,$0,,Free,Best for individuals. Create unlimited pipelines for public and private repositories.,https://github.com/marketplace/codefresh
+Codefresh,$99,month,Basic,Ideal for small teams. Run pipelines concurrently and collaborate on images.,https://github.com/marketplace/codefresh
+Codefresh,$344,month,Pro,"Perfect for growing teams. Get unlimited builds, self-hosted Git support, and deployment flexibility.",https://github.com/marketplace/codefresh
+CircleCI,$0,,Free,Free for both open source and private projects - 1500 monthly build minutes,https://github.com/marketplace/circleci
+CircleCI,$69,month,Bootstrap,2 containers allow you to run 2x parallelism and 2x concurrency,https://github.com/marketplace/circleci
+CircleCI,$189,month,Startup,4 containers allow you to run 4x parallelism and 4x concurrency,https://github.com/marketplace/circleci
+CircleCI,$299,month,Growth,6 containers allow you to run 6x parallelism and 6x concurrency,https://github.com/marketplace/circleci
+Dependabot,$0,,Open source / personal account,Free daily dependency updates for all your open source and personal repos,https://github.com/marketplace/dependabot
+Dependabot,$15,month,Small organisation Free Trial,Daily dependency updates for up to 5 private repos,https://github.com/marketplace/dependabot
+Dependabot,$50,month,Business Free Trial,Daily dependency updates for up to 25 private repos,https://github.com/marketplace/dependabot
+Dependabot,$100,month,Unlimited Free Trial,Daily dependency updates for all your private repos,https://github.com/marketplace/dependabot
+Depfu,$0,,Open Source & Personal Accounts,Free for public repos and all your personal repos,https://github.com/marketplace/depfu
+Depfu,$29,month,Starter Free Trial,Automated Dependency Management for up to 5 private repos,https://github.com/marketplace/depfu
+Depfu,$59,month,Team Free Trial,Automated Dependency Management for up to 25 private repos,https://github.com/marketplace/depfu
+Depfu,$99,month,Business Free Trial,Automated Dependency Management for unlimited private repos,https://github.com/marketplace/depfu
+Greenkeeper,$0,,Open Source,Unlimited public repositories,https://github.com/marketplace/greenkeeper
+Greenkeeper,$39,month,Team Free Trial,For small to medium teams,https://github.com/marketplace/greenkeeper
+Greenkeeper,$99,month,Business Free Trial,Perfect for companies with large commercial projects,https://github.com/marketplace/greenkeeper
+MyGet,$15,month,Developer Free Trial,Package and artifact management for individuals,https://github.com/marketplace/myget
+MyGet,$40,month,Team Free Trial,Package and artifact management for teams,https://github.com/marketplace/myget
+Renovate,$0,,Open Source,Free plan for open source,https://github.com/marketplace/renovate
+Renovate,$1,month,Personal Plan Free Trial,Dependency updates for personal accounts,https://github.com/marketplace/renovate
+Renovate,$19,month,Organization Starter Free Trial,A starter plan for Organizations with up to 3 repositories,https://github.com/marketplace/renovate
+Renovate,$39,month,Organization Medium,A medium Organization plan for renovating up to 25 repositories,https://github.com/marketplace/renovate
+Renovate,$99,month,Organization Large,A large Organization plan for renovating up to 100 private repositories,https://github.com/marketplace/renovate
+Sonatype DepShield,$0,,Free Vulnerability Protection,Free continuous monitoring of public and private GitHub repositories.,https://github.com/marketplace/sonatype-depshield
+Snyk,$0,,Free,For individuals and small organisations to stay secure.,https://github.com/marketplace/snyk
+GitHub Learning Lab,$0,,Starter Pack,Courses to help you learn GitHub.,https://github.com/marketplace/github-learning-lab
+POEditor,$0,,Free,Small projects,https://github.com/marketplace/poeditor
+POEditor,$15,month,Start Free Trial,Small and medium projects,https://github.com/marketplace/poeditor
+POEditor,$45,month,Plus Free Trial,Medium projects,https://github.com/marketplace/poeditor
+POEditor,$120,month,Premium Free Trial,Large projects,https://github.com/marketplace/poeditor
+POEditor,$200,month,Enterprise Free Trial,Very large projects,https://github.com/marketplace/poeditor
+GitLocalize,$0,,Free,For a small open repository,https://github.com/marketplace/gitlocalize
+GitLocalize,$15,month,Micro,1 private/public repository,https://github.com/marketplace/gitlocalize
+GitLocalize,$45,month,Starter,2 private/public repositories,https://github.com/marketplace/gitlocalize
+GitLocalize,$199,month,Medium,5 private/public repositories,https://github.com/marketplace/gitlocalize
+GitLocalize,$799,month,Business,Unlimited private/public repositories,https://github.com/marketplace/gitlocalize
+Crowdin,$0,,Open Source,Free for open source projects,https://github.com/marketplace/crowdin
+Crowdin,$150,month,Bronze Free Trial,Suited for small teams and companies,https://github.com/marketplace/crowdin
+Crowdin,$300,month,Silver Free Trial,Solution for medium and large companies,https://github.com/marketplace/crowdin
+Crowdin,$450,month,Platinum Free Trial,Created for large companies with multiple projects,https://github.com/marketplace/crowdin
+Instabug,$0,,Free,"In-app feedback, 1 app, 1 mo data retention.",https://github.com/marketplace/instabug
+Instabug,$49,month,Bronze Free Trial,In-app Feedback: screenshot attachments and environment snapshot,https://github.com/marketplace/instabug
+Instabug,$149,month,Silver Free Trial,Bug reporting and in-app feedback up to 2 apps,https://github.com/marketplace/instabug
+Instabug,$349,month,Gold Free Trial,Bug reporting and in-app feedback up to 2 apps,https://github.com/marketplace/instabug
+Sentry,$0,,Free,"10,000 events/month",https://github.com/marketplace/sentry
+Sentry,$29,month,Small,"100,000 events/month",https://github.com/marketplace/sentry
+Sentry,$199,month,Medium,"1,000,000 events/month",https://github.com/marketplace/sentry
+Sentry,$499,month,Large,"4,000,000 events/month",https://github.com/marketplace/sentry
+LogRocket,$0,,Free,"1,000 sessions/month",https://github.com/marketplace/logrocket
+LogRocket,$99,month,Starter,"10,000 sessions/month",https://github.com/marketplace/logrocket
+LogRocket,$199,month,Team,"25,000 sessions/month",https://github.com/marketplace/logrocket
+LogRocket,$399,month,Company,"100,000 sessions/month",https://github.com/marketplace/logrocket
+LogRocket,$599,month,Growth,"250,000 sessions/month",https://github.com/marketplace/logrocket
+Airbrake,$0,,GitHub Free,Free plan for personal projects,https://github.com/marketplace/airbrake
+Airbrake,$59,month,GitHub Essential,For smaller companies & applications,https://github.com/marketplace/airbrake
+Airbrake,$129,month,GitHub Startup,For startups & businesses starting to get traction,https://github.com/marketplace/airbrake
+Airbrake,$299,month,GitHub Growth,For growing companies & larger applications,https://github.com/marketplace/airbrake
+Airbrake,$599,month,GitHub Business,For larger businesses & more robust applications,https://github.com/marketplace/airbrake
+Moesif API Insights,$0,,Free,"100,000 API Calls/month",https://github.com/marketplace/moesif-api-insights
+Moesif API Insights,$79,month,Grow Free Trial,Everything in Free plus:,https://github.com/marketplace/moesif-api-insights
+Moesif API Insights,$199,month,Pro Free Trial,Everything in Free plus:,https://github.com/marketplace/moesif-api-insights
+Moesif API Insights,$599,month,Ultra Free Trial,Everything in Free plus:,https://github.com/marketplace/moesif-api-insights
+Rollbar,$0,,Free,"10,000 events / month",https://github.com/marketplace/rollbar
+Rollbar,$19,month,Hobby,"30,000 events / month",https://github.com/marketplace/rollbar
+Rollbar,$49,month,Bootstrap,"100,000 events / month",https://github.com/marketplace/rollbar
+Rollbar,$149,month,Startup,"500,000 events / month",https://github.com/marketplace/rollbar
+Rollbar,$299,month,Growth,"1,500,000 events / month",https://github.com/marketplace/rollbar
+GitKraken Glo Boards,$0,,Free,The legendary issue and task tracking boards for developers,https://github.com/marketplace/gitkraken-glo-boards
+ZenHub,$0,,Free,ZenHub is free for open source projects,https://github.com/marketplace/zenhub
+ZenHub,"$5
+per user",month,Growth Free Trial,For teams using private repositories,https://github.com/marketplace/zenhub
+issue.sh,$0,,Free Plan,Free for teams of five or less and open source projects,https://github.com/marketplace/issue-sh
+issue.sh,"$2
+per seat",month,Growth Plan Free Trial,$2 per seat per month,https://github.com/marketplace/issue-sh
+Zube,$0,,Free,Up to 4 Users,https://github.com/marketplace/zube
+Zube,$250,month,Startup Free Trial,Up to 25 Users,https://github.com/marketplace/zube
+Zube,$500,month,Small Business Free Trial,Up to 50 Users,https://github.com/marketplace/zube
+Zube,"$1,000",month,Growing Business Free Trial,Up to 100 Users,https://github.com/marketplace/zube
+Zube,"$2,000",month,Large Business Free Trial,Up to 200 Users,https://github.com/marketplace/zube
+DeepAffects,$0,,Open Source,We offer DeepAffects free for open source projects,https://github.com/marketplace/deepaffects
+DeepAffects,"$49
+per repository",month,Growth Free Trial,Metrics for Team Dynamics & Productivity,https://github.com/marketplace/deepaffects
+Codetree,$9,month,Solo Free Trial,1 user,https://github.com/marketplace/codetree
+Codetree,$24,month,Small Team Free Trial,Up to 3 users,https://github.com/marketplace/codetree
+Codetree,$49,month,Startup Free Trial,Up to 8 users,https://github.com/marketplace/codetree
+Codetree,$99,month,Business Free Trial,Up to 20 users,https://github.com/marketplace/codetree
+Codetree,$199,month,Enterprise Free Trial,Up to 50 users,https://github.com/marketplace/codetree
+Jira Software + GitHub,$0,,Free,Your ultimate productivity pair,https://github.com/marketplace/jira-software-github
+Octobox,$0,,Open Source,"Free for open source, forever.",https://github.com/marketplace/octobox
+Octobox,$100,month,Private projects Free Trial,Private repository access,https://github.com/marketplace/octobox
+Waffle,$0,,Free,"All of Waffle's features, free for Open Source projects",https://github.com/marketplace/waffle
+Waffle,$5,month,Personal Free Trial,Unlimited private repositories and unlimited collaborators for personal GitHub accounts,https://github.com/marketplace/waffle
+Waffle,$49,month,Organization Free Trial,Unlimited private repositories and unlimited collaborators for organization GitHub accounts,https://github.com/marketplace/waffle
+Pageclip,$0,,Free,For small websites,https://github.com/marketplace/pageclip
+Pageclip,$9,month,Basic,For small - medium websites,https://github.com/marketplace/pageclip
+Pageclip,$19,month,Pro,For several websites,https://github.com/marketplace/pageclip
+Pageclip,$49,month,Agency,For agencies with many clients,https://github.com/marketplace/pageclip
+BackHub,$9,month,10 Repositories Free Trial,Up to 10 repository backups,https://github.com/marketplace/backhub
+BackHub,$18,month,30 Repositories Free Trial,Up to 30 repository backups,https://github.com/marketplace/backhub
+BackHub,$36,month,75 Repositories Free Trial,Up to 75 repository backups,https://github.com/marketplace/backhub
+BackHub,$70,month,150 Repositories Free Trial,Up to 150 repository backups,https://github.com/marketplace/backhub
+BackHub,$120,month,300 Repositories Free Trial,Up to 300 repository backups,https://github.com/marketplace/backhub
